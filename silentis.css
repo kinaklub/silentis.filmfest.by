@@ -1,0 +1,15 @@
+body {
+    margin, padding: 0;
+    background-color: #000;
+    color: #EEE;
+}
+
+a, a:hover, a:visited {
+    color: #9C7570;
+}
+
+.main {
+    margin: auto;
+    display: block;
+    width: 940px;
+}
